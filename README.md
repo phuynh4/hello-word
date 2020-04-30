@@ -1,2 +1,3 @@
 # hello-word
-Assignment
+My name is Phuong Huynh
+I like to play soccer
